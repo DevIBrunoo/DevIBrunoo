@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Me chamo Bruno Henrique, tenho 20 anos, sou natural de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente evoluir minhas habilidades através de estudos independentes e projetos práticos.
+Me chamo Bruno Henrique, tenho 23 anos, sou natural de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento de software, buscando constantemente evoluir minhas habilidades através de estudos independentes e projetos práticos.
 
 Atualmente, estudo programação por conta própria, com foco em desenvolvimento e tecnologia, e tenho como próximo objetivo ingressar no curso de Análise e Desenvolvimento de Sistemas (ADS) para aprofundar ainda mais meus conhecimentos na área.
 <p align="left">
