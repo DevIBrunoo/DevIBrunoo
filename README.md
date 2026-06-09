@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back End`**
 
-Me chamo Bruno Henrique, tenho 23 anos, sou natural de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento Back-End, buscando constantemente evoluir minhas habilidades por meio de estudos independentes e projetos práticos.
+Me chamo Bruno Henrique, tenho 23 anos, sou de São Paulo e atualmente moro em Osasco. Sou apaixonado por tecnologia e desenvolvimento Back-End, buscando constantemente evoluir minhas habilidades por meio de estudos independentes e projetos práticos.
 
 Atualmente, estudo programação com foco em desenvolvimento Back-End, com interesse no desenvolvimento de APIs, bancos de dados e arquitetura de sistemas, sempre buscando aplicar boas práticas de organização, segurança e performance.
 
